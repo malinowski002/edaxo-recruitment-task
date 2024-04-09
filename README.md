@@ -19,3 +19,4 @@ Currency rate: 0.19
 Rate fetch date: 2023-09-01
 Price in PLN: 1.52
 ```
+Wszelkie otrzymane dane zapisywane są także, w zależności od trybu uruchomienia, w testowej bazie (json) lub bazie danych.
