@@ -1,0 +1,184 @@
+{
+    "1": {
+        "id": 1,
+        "currency": "eur",
+        "rate": 4.6285,
+        "price_in_pln": 21.1,
+        "date": "2010-01-01"
+    },
+    "3": {
+        "id": 3,
+        "currency": "eur",
+        "rate": 4.985,
+        "price_in_pln": 22.1,
+        "date": "2012-01-01"
+    },
+    "2": {
+        "id": 2,
+        "currency": "CZK",
+        "rate": 0.1696,
+        "price_in_pln": 18.83,
+        "date": "2024-04-07"
+    },
+    "4": {
+        "id": 4,
+        "currency": "CZK",
+        "rate": 0.1696,
+        "price_in_pln": 1.36,
+        "date": "2024-04-07"
+    },
+    "5": {
+        "id": 5,
+        "currency": "CZK",
+        "rate": 0.1696,
+        "price_in_pln": 169.43,
+        "date": "2024-04-07"
+    },
+    "6": {
+        "id": 6,
+        "currency": "EUR",
+        "rate": 4.2883,
+        "price_in_pln": 347.35,
+        "date": "2024-04-07"
+    },
+    "7": {
+        "id": 7,
+        "currency": "EUR",
+        "rate": 4.2883,
+        "price_in_pln": 4.29,
+        "date": "2024-04-07"
+    },
+    "8": {
+        "id": 8,
+        "currency": "EUR",
+        "rate": 4.2883,
+        "price_in_pln": 4.29,
+        "date": "2024-04-07"
+    },
+    "9": {
+        "id": 9,
+        "currency": "EUR",
+        "rate": 4.2883,
+        "price_in_pln": 38.59,
+        "date": "2024-04-07"
+    },
+    "10": {
+        "id": 10,
+        "currency": "EUR",
+        "rate": 4.2883,
+        "price_in_pln": 4.29,
+        "date": "2024-04-07"
+    },
+    "11": {
+        "id": 11,
+        "currency": "EUR",
+        "rate": 4.2883,
+        "price_in_pln": 38.59,
+        "date": "2024-04-07"
+    },
+    "12": {
+        "id": 12,
+        "currency": "EUR",
+        "rate": 4.2883,
+        "price_in_pln": 38.59,
+        "date": "2024-04-07"
+    },
+    "13": {
+        "id": 13,
+        "currency": "CZK",
+        "rate": 0.19,
+        "price_in_pln": 0.19,
+        "date": "2024-04-07"
+    },
+    "14": {
+        "id": 14,
+        "currency": "EUR",
+        "rate": 4.15,
+        "price_in_pln": 228.25,
+        "date": "2024-04-07"
+    },
+    "15": {
+        "id": 15,
+        "currency": "EUR",
+        "rate": 4.15,
+        "price_in_pln": 37.35,
+        "date": "2024-04-07"
+    },
+    "16": {
+        "id": 16,
+        "currency": "EUR",
+        "rate": 4.15,
+        "price_in_pln": 20.75,
+        "date": "2024-04-07"
+    },
+    "17": {
+        "id": 17,
+        "currency": "CZK",
+        "rate": 0.1696,
+        "price_in_pln": 0.85,
+        "date": "2024-04-07"
+    },
+    "18": {
+        "id": 18,
+        "currency": "CZK",
+        "rate": 0.169,
+        "price_in_pln": 9.13,
+        "date": "2024-04-08"
+    },
+    "19": {
+        "id": 19,
+        "currency": "CNY",
+        "rate": 0.5467,
+        "price_in_pln": 3826.9,
+        "date": "2024-04-08"
+    },
+    "20": {
+        "id": 20,
+        "currency": "MXN",
+        "rate": 0.24,
+        "price_in_pln": 201.6,
+        "date": "2024-04-08"
+    },
+    "21": {
+        "id": 21,
+        "currency": "EUR",
+        "rate": 4.15,
+        "price_in_pln": 74.7,
+        "date": "2024-04-08"
+    },
+    "22": {
+        "id": 22,
+        "currency": "THB",
+        "rate": 0.1077,
+        "price_in_pln": 95.64,
+        "date": "2024-04-08"
+    },
+    "23": {
+        "id": 23,
+        "currency": "CZK",
+        "rate": 0.169,
+        "price_in_pln": 15.21,
+        "date": "2024-04-08"
+    },
+    "24": {
+        "id": 24,
+        "currency": "HKD",
+        "rate": 0.505,
+        "price_in_pln": 505.0,
+        "date": "2024-04-08"
+    },
+    "25": {
+        "id": 25,
+        "currency": "CZK",
+        "rate": 0.19,
+        "price_in_pln": 173.85,
+        "date": "2024-04-08"
+    },
+    "26": {
+        "id": 26,
+        "currency": "EUR",
+        "rate": 4.2588,
+        "price_in_pln": 421.62,
+        "date": "2024-04-09"
+    }
+}
